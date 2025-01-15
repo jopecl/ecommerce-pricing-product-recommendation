@@ -1,4 +1,5 @@
-# eCommerce Product Recommendation and Pricing Algorithm  
+# eCommerce Product Recommendation and Pricing Algorithm 
+by [Telmo Linacisoro](https://github.com/telmolinacisoro) and [José Pérez](https://github.com/jopecl) 
 
 ## Overview  
 This project provides a machine learning-based solution to assist eCommerce sellers in identifying trending products and setting optimal prices. The solution includes predictive models for pricing and trends, joined with an interactive Streamlit web application for actionable insights.  
